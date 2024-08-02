@@ -8,19 +8,16 @@
 Инструкция по запуску:
 
 1. Убедитесь, что у вас установлены Docker и Docker Compose.
-2. Клонируйте репозиторий:
 
-   git clone https://github.com/example/banking-service.git
-
-3. Перейдите в директорию проекта:
+2. Перейдите в директорию проекта:
 
    cd banking-service
 
-4. Запустите приложение и PostgreSQL-контейнер с помощью Docker Compose:
+3. Запустите приложение и PostgreSQL-контейнер с помощью Docker Compose:
 
    docker-compose up -d
 
-5. Приложение будет доступно по адресу http://localhost:8080.
+4. Приложение будет доступно по адресу http://localhost:8080.
 
 Пользователи и роли:
 
